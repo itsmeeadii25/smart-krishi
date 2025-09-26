@@ -29,7 +29,7 @@ const Navbar = () => {
       <div className="navbar-container">
         <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
           <span className="logo-icon">🌱</span>
-          <span className="logo-text">Smart कृषि</span>
+          <span className="logo-text">Krishi AI</span>
         </Link>
 
         <div className={`navbar-menu ${isMobileMenuOpen ? 'active' : ''}`}>
@@ -88,3 +88,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
