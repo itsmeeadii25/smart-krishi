@@ -145,8 +145,8 @@ const Contact = () => {
                   <div className="method-content">
                     <h3>Email Support</h3>
                     <p>For farmers' help, contact us at:</p>
-                    <a href="mailto:support@smartkrishi.com" className="contact-link">
-                      support@smartkrishi.com
+                    <a href="mailto:support@krishiai.com" className="contact-link">
+                      support@krishiai.com
                     </a>
                   </div>
                 </div>
@@ -178,7 +178,7 @@ const Contact = () => {
                     <p>Visit our headquarters:</p>
                     <span className="contact-link">
                       New Delhi, India<br />
-                      Smart Krishi Headquarters
+                      Krishi AI Headquarters
                     </span>
                   </div>
                 </div>
@@ -211,7 +211,7 @@ const Contact = () => {
         <div className="container">
           <div className="faq-header">
             <h2>Frequently Asked Questions</h2>
-            <p>Find answers to common questions about Smart Krishi</p>
+            <p>Find answers to common questions about Krishi AI</p>
           </div>
 
           <div className="faq-grid">
@@ -221,18 +221,18 @@ const Contact = () => {
             </div>
 
             <div className="faq-item">
-              <h3>Is Smart कृषि available in multiple languages?</h3>
-              <p>Yes! Smart कृषि supports multiple regional languages including Hindi, English, Tamil, Telugu, and more to serve farmers across India.</p>
+              <h3>Is Krishi AI available in multiple languages?</h3>
+              <p>Yes! Krishi AI supports multiple regional languages including Hindi, English, Tamil, Telugu, and more to serve farmers across India.</p>
             </div>
 
             <div className="faq-item">
-              <h3>Can I use Smart कृषि offline?</h3>
+              <h3>Can I use Krishi AI offline?</h3>
               <p>Absolutely! We provide offline access to essential features, ensuring farmers in areas with poor connectivity can still benefit from our recommendations.</p>
             </div>
 
             <div className="faq-item">
-              <h3>How much does Smart कृषि cost?</h3>
-              <p>Smart कृषि offers both free and premium plans. Basic features are free, while advanced analytics and premium support are available with our subscription plans.</p>
+              <h3>How much does Krishi AI cost?</h3>
+              <p>Krishi AI offers both free and premium plans. Basic features are free, while advanced analytics and premium support are available with our subscription plans.</p>
             </div>
 
             <div className="faq-item">
@@ -253,7 +253,7 @@ const Contact = () => {
         <div className="container">
           <div className="cta-content">
             <h2>Ready to Transform Your Farming?</h2>
-            <p>Join thousands of farmers who are already maximizing their yields with Smart कृषि</p>
+            <p>Join thousands of farmers who are already maximizing their yields with Krishi AI</p>
             <div className="cta-buttons">
               <a href="/recommendation" className="btn-primary">
                 <span>Get Started Now</span>
@@ -271,3 +271,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
