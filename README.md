@@ -1,4 +1,4 @@
-# Smart कृषि - AI-Powered Crop Recommendation Website
+# Krishi AI - AI-Powered Crop Recommendation Website
 
 A beautiful, modern React.js website for AI-powered crop recommendations for farmers. Built with clean CSS animations, responsive design, and farmer-friendly UI.
 
@@ -25,7 +25,7 @@ A beautiful, modern React.js website for AI-powered crop recommendations for far
 1. **Clone or download the project files**
    ```bash
    # If you have the files locally, navigate to the project directory
-   cd smart-krishi
+   cd krishi-ai
    ```
 
 2. **Install dependencies**
@@ -44,7 +44,7 @@ A beautiful, modern React.js website for AI-powered crop recommendations for far
 ## 📁 Project Structure
 
 ```
-smart-krishi/
+krishi-ai/
 ├── public/
 │   └── index.html
 ├── src/
@@ -200,11 +200,11 @@ To deploy the website:
 
 ## 📞 Support
 
-For farmers' help, contact us at: **support@smartkrishi.com**
+For farmers' help, contact us at: **support@krishiai.com**
 
 ## 📄 License
 
-© 2025 Smart कृषि | SIH Project
+© 2025 Krishi AI | SIH Project
 
 ## 🤝 Contributing
 
