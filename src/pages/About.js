@@ -8,7 +8,7 @@ const About = () => {
       <section className="about-hero">
         <div className="container">
           <div className="hero-content">
-            <h1 className="hero-title">About Smart कृषि</h1>
+            <h1 className="hero-title">About Krishi AI</h1>
             <p className="hero-subtitle">
               Empowering farmers with AI-driven solutions for sustainable and profitable agriculture
             </p>
@@ -84,7 +84,7 @@ const About = () => {
           <div className="section-header">
             <h2 className="section-title">Our Solution</h2>
             <p className="section-subtitle">
-              Smart कृषि leverages cutting-edge AI technology to revolutionize farming practices
+              Krishi AI leverages cutting-edge AI technology to revolutionize farming practices
             </p>
           </div>
           
