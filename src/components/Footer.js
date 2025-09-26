@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="footer-section">
             <div className="footer-logo">
               <span className="logo-icon">🌱</span>
-              <span className="logo-text">Smart कृषि</span>
+              <span className="logo-text">Krishi AI</span>
             </div>
             <p className="footer-description">
               Empowering farmers with AI-driven crop recommendations for sustainable and profitable agriculture.
@@ -45,7 +45,7 @@ const Footer = () => {
           <div className="footer-section">
             <h3 className="footer-title">Support</h3>
             <ul className="footer-links">
-              <li><a href="mailto:support@smartkrishi.com">support@smartkrishi.com</a></li>
+              <li><a href="mailto:support@krishiai.com">support@krishiai.com</a></li>
               <li><a href="tel:+91-9876543210">+91-9876543210</a></li>
               <li><a href="#">Help Center</a></li>
               <li><a href="#">FAQ</a></li>
@@ -56,7 +56,7 @@ const Footer = () => {
             <h3 className="footer-title">Contact Info</h3>
             <div className="contact-info">
               <p>📍 New Delhi, India</p>
-              <p>📧 info@smartkrishi.com</p>
+              <p>📧 info@krishiai.com</p>
               <p>📞 +91-9876543210</p>
             </div>
           </div>
@@ -64,7 +64,7 @@ const Footer = () => {
 
         <div className="footer-bottom">
           <div className="footer-bottom-content">
-            <p>&copy; 2025 Smart कृषि | SIH Project</p>
+            <p>&copy; 2025 Krishi AI | SIH Project</p>
             <div className="footer-bottom-links">
               <a href="#">Privacy Policy</a>
               <a href="#">Terms of Service</a>
@@ -77,3 +77,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
