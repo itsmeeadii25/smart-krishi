@@ -1,7 +1,7 @@
 {
-  "name": "smart-krishi",
+  "name": "krishi-ai",
   "version": "1.0.0",
-  "description": "Smart कृषि - AI-Powered Crop Recommendation for Farmers",
+  "description": "Krishi AI - AI-Powered Crop Recommendation for Farmers",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -29,3 +29,4 @@
     ]
   }
 }
+
