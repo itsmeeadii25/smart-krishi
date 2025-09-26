@@ -158,7 +158,7 @@ const ProjectDetails = () => {
         <div className="container">
           <div className="hero-content">
             <h1 className="hero-title">
-              <span className="title-main">Smart कृषि</span>
+              <span className="title-main">Krishi AI</span>
               <span className="title-sub">AI-Driven Agricultural Revolution</span>
             </h1>
             <p className="hero-description">
@@ -440,7 +440,7 @@ const ProjectDetails = () => {
             <div className="flow-arrow">→</div>
             <div className="interaction-step">
               <div className="step-icon">📋</div>
-              <h3>Smart Results</h3>
+              <h3>AI Results</h3>
               <p>Provides recommendations in simple, local-language text/voice</p>
             </div>
             <div className="flow-arrow">→</div>
@@ -516,7 +516,7 @@ const ProjectDetails = () => {
         <div className="container">
           <div className="cta-content">
             <h2>Ready to Revolutionize Agriculture?</h2>
-            <p>Join the agricultural transformation with Smart कृषि</p>
+            <p>Join the agricultural transformation with Krishi AI</p>
             <div className="cta-buttons">
               <a href="/recommendation" className="btn-primary">
                 <span>Get Started</span>
@@ -534,3 +534,5 @@ const ProjectDetails = () => {
 };
 
 export default ProjectDetails;
+
+
