@@ -53,9 +53,9 @@ const Features = () => {
       <section className="features-hero">
         <div className="container">
           <div className="hero-content">
-            <h1 className="hero-title">Smart कृषि Features</h1>
+            <h1 className="hero-title">Krishi AI Features</h1>
             <p className="hero-subtitle">
-              Discover the powerful tools and technologies that make Smart कृषि the ultimate farming companion
+              Discover the powerful tools and technologies that make Krishi AI the ultimate farming companion
             </p>
           </div>
         </div>
@@ -156,7 +156,7 @@ const Features = () => {
         <div className="container">
           <div className="benefits-content">
             <div className="benefits-text">
-              <h2>Why Choose Smart कृषि?</h2>
+              <h2>Why Choose Krishi AI?</h2>
               <div className="benefits-list">
                 <div className="benefit-item">
                   <div className="benefit-icon">⚡</div>
@@ -230,7 +230,7 @@ const Features = () => {
         <div className="container">
           <div className="cta-content">
             <h2>Ready to Experience the Future of Farming?</h2>
-            <p>Join thousands of farmers who are already transforming their agriculture with Smart कृषि</p>
+            <p>Join thousands of farmers who are already transforming their agriculture with Krishi AI</p>
             <div className="cta-buttons">
               <a href="/recommendation" className="btn-primary">
                 <span>Get Started Now</span>
@@ -248,3 +248,4 @@ const Features = () => {
 };
 
 export default Features;
+
