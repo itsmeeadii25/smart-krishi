@@ -21,7 +21,7 @@ const Home = () => {
         <div className="hero-container">
           <div className="hero-content">
             <h1 className="hero-title">
-              <span className="title-main">Smart कृषि</span>
+              <span className="title-main">Krishi AI</span>
               <span className="title-sub">AI-Powered Crop Recommendation for Farmers</span>
             </h1>
             
@@ -84,7 +84,7 @@ const Home = () => {
       {/* Features Preview */}
       <section className="features-preview">
         <div className="container">
-            <h2 className="section-title">Why Choose Smart कृषि?</h2>
+            <h2 className="section-title">Why Choose Krishi AI?</h2>
           <div className="features-grid">
             <div className="feature-card">
               <div className="feature-icon">🤖</div>
@@ -115,7 +115,7 @@ const Home = () => {
         <div className="container">
           <div className="cta-content">
             <h2>Ready to Transform Your Farming?</h2>
-            <p>Join thousands of farmers who are already maximizing their yields with Smart कृषि</p>
+            <p>Join thousands of farmers who are already maximizing their yields with Krishi AI</p>
             <Link to="/recommendation" className="btn-primary large">
               <span>Start Your Journey</span>
               <div className="btn-shine"></div>
@@ -128,3 +128,5 @@ const Home = () => {
 };
 
 export default Home;
+
+
